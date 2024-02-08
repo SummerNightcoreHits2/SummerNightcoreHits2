@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-<strong>/<space>//<br>
+<strong>/ //<br>
 //  /_</strong>
