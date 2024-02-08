@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-<strong>/ //<br>
-//  /_</strong>
+<strong>│ ││<br>
+││  │_</strong>
