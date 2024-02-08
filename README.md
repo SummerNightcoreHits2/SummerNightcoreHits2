@@ -1,6 +1,4 @@
 ### Hi there 👋
 
-# :FUCK_YOU:
-## 
-### 
-#### 
+<strong>/   //
+//  /_</strong>
