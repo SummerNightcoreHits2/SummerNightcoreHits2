@@ -3,4 +3,4 @@
 ### ▣▣
 ### _
 
-<img height="150px" src="Saru.jpg" />
+<img height="500px" src="Saru.jpeg" />
