@@ -1,6 +1,5 @@
 # <strong>Hello</strong>
-## I'm just doing this for school work there's nothing else really
-### ▣▣
-### _
+## I like codig :))))))))))))))
+### Here's a Buffalo
 
-<img height="500px" src="Saru.jpeg" />
+<img height="500px" src="b.jpeg" />
