@@ -1,5 +1,5 @@
 # <strong>Hello</strong>
-## I like coding stuff :))))))))))))))
+## I like creating cool stuff :)
 ### Here's a Buffalo
 
 <img height="500px" src="b.jpeg" />
